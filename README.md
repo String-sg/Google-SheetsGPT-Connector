@@ -1,3 +1,29 @@
+# Google Sheets GPT Connector — archived
+
+**Retired on 18 October 2026.** This repository is retained as a historical
+reference; no further maintenance or supported deployment is planned.
+
+The original formula experiment dates to December 2022, with String adaptations
+in 2023 and a model-related refresh in November 2024. It demonstrated how to
+combine spreadsheet data with LLM prompts before native AI functions became
+available in Google Sheets.
+
+For current native spreadsheet AI features, see
+[Google's AI function documentation](https://support.google.com/docs/answer/15877199?hl=en).
+Availability depends on an eligible plan and administrator settings.
+
+The scripts and setup text below are legacy material: the file/model descriptions
+and API calls are inconsistent, and these instructions are not a supported current
+installation path. A protected batch-workflow product was considered in
+[issue #3](https://github.com/String-sg/Google-SheetsGPT-Connector/issues/3);
+the decision is to archive this connector rather than develop that proposal here.
+
+## Historical README
+
+The original README is preserved below for provenance.
+
+---
+
 # GPT-4o-mini App Script for Google Sheets
 Updated 5 Nov by Kahhow
 
